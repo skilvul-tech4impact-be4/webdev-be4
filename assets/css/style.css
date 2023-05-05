@@ -307,7 +307,7 @@ HEAD #packageContainer {
 }
 
 /* regis */
-.container {
+.reg {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -320,13 +320,13 @@ HEAD #packageContainer {
   border-radius: 15px;
   text-align: center;
 }
-#dropdown {
+#dropdown-btn {
   display: flex;
   align-content: flex-start;
   padding: 10px;
 }
 
-#button {
+#button-sub {
   display: flex;
   align-items: center;
   justify-content: center;
