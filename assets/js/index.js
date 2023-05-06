@@ -34,5 +34,6 @@ function register() {
       console.log(value);
     })
   );
+  window.open("tabel.html");
 }
 register();
